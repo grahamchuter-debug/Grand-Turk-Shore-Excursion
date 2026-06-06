@@ -1,0 +1,13 @@
+{
+  "name": "grand-turk-shore-excursion",
+  "private": true,
+  "scripts": {
+    "build": "python3 scripts/build-grand-turk-site.py",
+    "images": "python3 scripts/fetch-grand-turk-images.py",
+    "deploy": "wrangler deploy",
+    "preview": "python3 -m http.server 8911"
+  },
+  "devDependencies": {
+    "wrangler": "^4.94.0"
+  }
+}
