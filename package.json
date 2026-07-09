@@ -8,6 +8,7 @@
     "preview": "python3 -m http.server 8911"
   },
   "devDependencies": {
+    "sharp": "^0.35.3",
     "wrangler": "^4.94.0"
   }
 }
