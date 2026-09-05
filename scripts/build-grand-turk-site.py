@@ -673,15 +673,14 @@ def _content_contact() -> str:
     return f"""<section class="py-16 max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
   <h1 class="font-display text-3xl font-bold text-gray-900 mb-4">Contact</h1>
   <p class="text-gray-600 leading-relaxed mb-4">This site is an independent Grand Turk cruise planning guide. We do not take bookings or payments here.</p>
-  <p class="text-gray-600 leading-relaxed mb-4">A public inbox for this domain is being prepared. Email routing for <span class="font-medium text-gray-800">hello@grandturkshoreexcursion.com</span> has not yet been verified as live, so please do not rely on that address until routing is confirmed.</p>
-  <p class="text-gray-600 leading-relaxed mb-4">Meanwhile, use the planning pages:</p>
+  <p class="text-gray-600 leading-relaxed mb-4">Email <a class="text-ocean-600 font-semibold underline underline-offset-2" href="mailto:hello@grandturkshoreexcursion.com">hello@grandturkshoreexcursion.com</a>. Replies are handled when we can — this is a planning guide, not a booking desk.</p>
+  <p class="text-gray-600 leading-relaxed mb-4">You can also use the planning pages:</p>
   <ul class="list-disc pl-5 text-gray-600 space-y-2 mb-6">
     <li><a href="{href('one-day-in-grand-turk')}" class="text-ocean-600 underline">One day in Grand Turk</a></li>
     <li><a href="{href('best-beaches-in-grand-turk')}" class="text-ocean-600 underline">Best beaches</a></li>
     <li><a href="{href('grand-turk-cruise-port-guide')}" class="text-ocean-600 underline">Cruise port guide</a></li>
     <li><a href="{href('best-grand-turk-shore-excursions')}" class="text-ocean-600 underline">Best shore excursions</a></li>
   </ul>
-  <p class="text-sm text-gray-500 leading-relaxed">When email routing is verified, this page will be updated with a working contact address.</p>
 </section>"""
 
 
@@ -689,9 +688,9 @@ def _content_privacy() -> str:
     return f"""<section class="py-16 max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
   <h1 class="font-display text-3xl font-bold text-gray-900 mb-4">Privacy</h1>
   <p class="text-gray-600 leading-relaxed mb-4">Grand Turk Shore Excursion is an editorial planning website. In this phase we do not operate an online booking or payment system on this domain.</p>
-  <p class="text-gray-600 leading-relaxed mb-4">If you contact us once a verified public email is published, we will use your message only to respond to your enquiry. We do not sell personal information.</p>
+  <p class="text-gray-600 leading-relaxed mb-4">If you email hello@grandturkshoreexcursion.com, we will use your message only to respond to your enquiry. We do not sell personal information.</p>
   <p class="text-gray-600 leading-relaxed mb-4">This site may use standard hosting and analytics logs typical of websites served through Cloudflare. Those logs can include IP address, user agent and requested URLs.</p>
-  <p class="text-gray-600 leading-relaxed">For questions about this policy, use the <a href="{href('contact')}" class="text-ocean-600 underline">contact</a> page once a working inbox is confirmed.</p>
+  <p class="text-gray-600 leading-relaxed">For questions about this policy, use the <a href="{href('contact')}" class="text-ocean-600 underline">contact</a> page.</p>
 </section>"""
 
 
