@@ -2,92 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://grandturkshoreexcursion.com/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://grandturkshoreexcursion.com/best-grand-turk-shore-excursions.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://grandturkshoreexcursion.com/best-beaches-in-grand-turk</loc>
+    <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://grandturkshoreexcursion.com/grand-turk-cruise-port-guide.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://grandturkshoreexcursion.com/one-day-in-grand-turk.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://grandturkshoreexcursion.com/gibbs-cay-stingray-excursions.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://grandturkshoreexcursion.com/gibbs-cay-stingray-excursions</loc>
+    <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://grandturkshoreexcursion.com/grand-turk-snorkelling-tours.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://grandturkshoreexcursion.com/governors-beach-excursions</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/best-grand-turk-shore-excursions</loc>
+    <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://grandturkshoreexcursion.com/grand-turk-beach-breaks.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://grandturkshoreexcursion.com/governors-beach-excursions.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://grandturkshoreexcursion.com/grand-turk-cruise-port-guide</loc>
+    <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://grandturkshoreexcursion.com/grand-turk-island-tours.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://grandturkshoreexcursion.com/one-day-in-grand-turk</loc>
+    <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://grandturkshoreexcursion.com/grand-turk-golf-cart-tours.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://grandturkshoreexcursion.com/grand-turk-beach-breaks</loc>
+    <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://grandturkshoreexcursion.com/grand-turk-lighthouse-tours.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://grandturkshoreexcursion.com/grand-turk-snorkelling-tours</loc>
+    <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://grandturkshoreexcursion.com/grand-turk-private-tours.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://grandturkshoreexcursion.com/grand-turk-family-excursions.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://grandturkshoreexcursion.com/best-beaches-in-grand-turk.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://grandturkshoreexcursion.com/grand-turk-faq.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://grandturkshoreexcursion.com/grand-turk-island-tours</loc>
+    <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/grand-turk-golf-cart-tours</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/grand-turk-lighthouse-tours</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/grand-turk-private-tours</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/grand-turk-family-excursions</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/grand-turk-faq</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/about</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/contact</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/privacy</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/terms</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://grandturkshoreexcursion.com/methodology</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
   </url>
 </urlset>
