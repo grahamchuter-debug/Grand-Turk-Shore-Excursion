@@ -4,6 +4,7 @@
   "main": "worker.js",
   "compatibility_date": "2026-06-06",
   "observability": { "enabled": true },
+  "workers_dev": true,
   "assets": {
     "directory": ".",
     "binding": "ASSETS",
@@ -13,12 +14,8 @@
   },
   "routes": [
     {
-      "pattern": "grandturkshoreexcursion.com",
-      "custom_domain": true
-    },
-    {
-      "pattern": "www.grandturkshoreexcursion.com",
-      "custom_domain": true
+      "pattern": "www.grandturkshoreexcursion.com/*",
+      "zone_name": "grandturkshoreexcursion.com"
     }
   ]
 }
